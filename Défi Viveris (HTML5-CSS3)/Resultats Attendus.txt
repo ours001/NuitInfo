@@ -1,0 +1,26 @@
+Viveris vous propose de répondre au sujet principal de la Nuit de l'Info en utilisant les technologies HTML5/CSS3 
+pour faire fonctionner votre application sur le plus grand nombre de devices (PC, tablettes, smartphones, etc.) !
+
+Pour rajouter un peu de fun au défi, nous vous proposons d'implémenter une fonctionnalité qui permette 
+d'adapter automatiquement le thème visuel de l'application à l'époque de l'année (saisons, Noël…).
+
+
+Surprenez-nous en réalisant une application ergonomique et innovante qui répondra au doigt et à la souris !
+
+Eléments attendus dans le dossier
+
+Présentation de l'équipe (école, forces, etc.), 6 slides maximum
+Présentation fonctionnelle de l'application, 6 slides maximum
+Présentation de l'approche retenue (architecture, multi-devices, IHM, etc.), 10 slides maximum
+Code source compilable de l'application (dans une archive zip)
+Url de l'application fonctionnelle en ligne
+Critères d'évaluation
+
+Respect du sujet principal de la Nuit de l'Info
+
+Application fonctionnelle
+Innovation
+Ergonomie et fluidité de navigation sur les différents devices
+Couverture multi-devices
+Adaptation du thème visuel à l'époque de l'année
+Qualité des présentations

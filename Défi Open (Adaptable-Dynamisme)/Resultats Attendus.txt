@@ -1,0 +1,16 @@
+Description du défi
+
+Le but du défi et de récompenser la meilleure réalisation implémentant le « Responsive webdesign ».
+
+L’application web réalisée devra s’afficher de la façon la plus dynamique et la plus adaptative possible 
+quelque soit la surface d’affichage mais également quelque soit le support utilisé 
+(Navigateurs (ie, Firefox, Chrome, Safari…) , Smartphones, Tablettes…).
+
+Eléments attendus dans le dossier
+
+Les éléments attendus du dossier :
+
+Un document de conception (3 pages max) décrivant :
+Les moyens techniques utilisés.
+Les éléments majeurs de compatibilité de navigateurs à prendre en compte.
+Un document présentant l’équipe et les rôles de chacun sur ce projet.

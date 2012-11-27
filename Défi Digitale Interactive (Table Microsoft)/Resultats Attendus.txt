@@ -1,0 +1,14 @@
+Description du défi
+
+Digitale et Microsoft proposent aux équipes participant à la Nuit de l'Info de relever le défi Digitale Interactive, à savoir, réaliser la meilleure application possible, conforme au sujet de la Nuit, présentant une interface pour les grandes surfaces tactiles (multitouch). La navigation devra être pensée pour être utilisable quelle que soit la position de l’utilisateur autour de la table, donc pas de contrainte d’orientation. Vous devrez également veiller à imaginer une interface utilisable simultanément par plusieurs personnes. Vous utiliserez le kit de développement Microsoft Surface SDK 2.0 (WPF). De nombreuses informations sur les outils et technologies Microsoft, notamment le SDK Surface, sont présentes sur internet ! Si vous ne disposez pas d’une table tactile ou d’un écran tactile, vous pouvez tester votre application sur un PC équipé de Windows 7 ou 8, après avoir installé le SDK. Nous testerons les applications sur une de nos tables interactives.
+
+Éléments attendus dans le dossier
+
+Succinct dossier de présentation de l'application
+Code source compilable de l'application (dans une archive zip)
+Critères d'évaluation
+
+Ergonomie de l'application
+
+Innovation
+Intérêt de l'application

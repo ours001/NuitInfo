@@ -1,0 +1,16 @@
+Description du défi
+
+Le LIF étant attaché aux valeurs d'innovation technologique et de valorisation autour de ses thèmes de recherche, 
+nous souhaitons par ce défi encourager la créativité de tous les jeunes talents 
+participants avec enthousiasme à cette belle manifestation qu'est la Nuit de l'Info 2012.
+
+Notre défi est donc de présenter la fonctionnalité la plus innovante. 
+Il est important que cette fonctionnalité réponde aux besoins du sujet de la nuit.
+
+Éléments attendus dans le dossier
+
+Le rendu devra être composé d'une maquette ou prototype illustrant l'utilisation et l’intérêt de cette fonctionnalité, 
+ainsi qu'un document de une à deux pages où seront avancées les différentes idées pour l'élaboration de la solution. 
+Il faudra en outre y faire figurer les algorithmes, méthodes ou les structures de données essentielles à 
+mettre en œuvre pour réaliser cette tâche.
+

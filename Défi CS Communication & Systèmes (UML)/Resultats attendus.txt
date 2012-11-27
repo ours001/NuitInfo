@@ -1,0 +1,13 @@
+Le dossier devra être constitué par:
+
+	Un document d'analyse,
+	Un document de conception (architecture logique et architecture physique),
+	Le modèle UML ainsi que le code produit (le work space ECLIPSE dans un fichier ZIP),
+	L'application finale codée, testée (un plan de test sera un plus) et opérationnelle
+
+La documentation doit être réalisée avec OpenOffice http://fr.openoffice.org/ , (ou Pdf) 
+et bien sur contenir les diagrammes UML, les descriptions associés … 
+et montrer de manière claire l'analyse, l'architecture logique, ainsi que l'architecture physique mise en place.
+
+Le prix ne pourra pas être attribué à une équipe dont l'application n'est pas opérationnelle à au moins 30% 
+(ce critère est discriminant) et ceci quelle que soit la qualité du modèle UML réalisé.

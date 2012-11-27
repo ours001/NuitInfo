@@ -1,0 +1,12 @@
+Description du défi
+
+Logica Toulouse vous propose de relever le défi suivant : 
+proposer une application à la fois accessible sur le web et sur appareil mobile (smartphone et/ou tablette Android).
+
+Nous vous invitons par ailleurs à faire en sorte que la version mobile de 
+l'application exploite les fonctionnalités de l'appareil (géolocalisation par exemple)…
+
+Eléments attendus dans le dossier
+
+L'application web devra proposer un lien pour le téléchargement de la version mobile 
+(l'application sera utilisée sur une tablette Samsung Galaxy Tab 10.1).

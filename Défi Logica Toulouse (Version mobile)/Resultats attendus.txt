@@ -10,3 +10,9 @@ Eléments attendus dans le dossier
 
 L'application web devra proposer un lien pour le téléchargement de la version mobile 
 (l'application sera utilisée sur une tablette Samsung Galaxy Tab 10.1).
+
+
+Information complémentaires :
+
+Le site devras fournir une application (android) pouvant profiter des founctionnalités spécifiques
+d'une tablette (gyroscope, geolocalisation).

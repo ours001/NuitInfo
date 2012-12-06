@@ -6,7 +6,7 @@ Mot de Passe : Ze7aisid
 
 
 Acc�s interface d'administration : https://182203.admin.dc0.gpaas.net
-Acc�s SFTP : sftp.dc0.gapaas.net:22
+Acc�s SFTP : sftp.dc0.gpaas.net:22
 Acc�s PhpMyAdmin : https://182203.admin.dc0.gpaas.net/phpMyAdmin
 
 Les identifiants PMA sont : root et mot de passe vide.

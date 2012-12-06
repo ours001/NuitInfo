@@ -1,0 +1,8 @@
+Description
+
+url de votre site php/my : toulouse10.nuitdelinfo.eu
+Votre coupon gandi gratuit d'une duree de 30 jours
+A saisir dans l'etape 'Contrat', rubrique 'Code promotion',
+lors de la creation de votre instance 'Simple Hosting' sur http://www.gandi.net
+Numero de coupon : PAAS-F920-FD9D-62A7
+

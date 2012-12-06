@@ -1,8 +1,15 @@
 Description
 
-url de votre site php/my : toulouse10.nuitdelinfo.eu
-Votre coupon gandi gratuit d'une duree de 30 jours
-A saisir dans l'etape 'Contrat', rubrique 'Code promotion',
-lors de la creation de votre instance 'Simple Hosting' sur http://www.gandi.net
-Numero de coupon : PAAS-F920-FD9D-62A7
 
+Login : 182203
+Mot de Passe : Ze7aisid
+
+
+Accès interface d'administration : https://182203.admin.dc0.gpaas.net
+Accès SFTP : sftp.dc0.gandi.net
+Accès PhpMyAdmin : https://182203.admin.dc0.gpaas.net/phpMyAdmin
+
+Les identifiants PMA sont : root et mot de passe vide.
+Accès interface d'administration : https://182203.admin.dc0.gpaas.net
+
+Pour comprendre comment gérer votre hébergement je vous invite à lire la doc suivante : http://wiki.gandi.net/fr/simple.
